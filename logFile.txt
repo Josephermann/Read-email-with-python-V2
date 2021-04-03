@@ -1,0 +1,119 @@
+error when saving the attachment:(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', "Impossible d'enregistrer la pièce jointe. Ce chemin d'accès n'existe pas. Assurez-vous qu'il est correct.", None, 0, -2147024893), None)error when saving the attachment:(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', "Impossible d'enregistrer la pièce jointe. Ce chemin d'accès n'existe pas. Assurez-vous qu'il est correct.", None, 0, -2147024893), None)
+error when saving the attachment:(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', "Impossible d'enregistrer la pièce jointe. Ce chemin d'accès n'existe pas. Assurez-vous qu'il est correct.", None, 0, -2147024893), None)
+error when saving the attachment:(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', "Impossible d'enregistrer la pièce jointe. Ce chemin d'accès n'existe pas. Assurez-vous qu'il est correct.", None, 0, -2147024893), None)
+error when saving the attachment:(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', "Impossible d'enregistrer la pièce jointe. Ce chemin d'accès n'existe pas. Assurez-vous qu'il est correct.", None, 0, -2147024893), None)
+error when saving the attachment:(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', "Impossible d'enregistrer la pièce jointe. Ce chemin d'accès n'existe pas. Assurez-vous qu'il est correct.", None, 0, -2147024893), None)
+==== date : 04/02/2021 14:23 PM ====
+error when saving the attachment:(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', "Impossible d'enregistrer la pièce jointe. Ce chemin d'accès n'existe pas. Assurez-vous qu'il est correct.", None, 0, -2147024893), None)
+==== date : 04/02/2021 14:23 PM ====
+error when saving the attachment:(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', "Impossible d'enregistrer la pièce jointe. Ce chemin d'accès n'existe pas. Assurez-vous qu'il est correct.", None, 0, -2147024893), None)
+==== date : 04/02/2021 14:24 PM ====
+error when saving the attachment:(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', "Impossible d'enregistrer la pièce jointe. Ce chemin d'accès n'existe pas. Assurez-vous qu'il est correct.", None, 0, -2147024893), None)
+==== date : 04/02/2021 14:24 PM ====
+error when saving the attachment:(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', "Impossible d'enregistrer la pièce jointe. Ce chemin d'accès n'existe pas. Assurez-vous qu'il est correct.", None, 0, -2147024893), None)
+==== date : 04/02/2021 14:24 PM ====
+ attachment Slide_UC_AchatPass.pptx from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:24 PM ====
+ attachment Specifications_technique_et_fonctionnel_UC_Comportement_Achats.docx from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:24 PM ====
+ attachment itop_210326.rar from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:24 PM ====
+ attachment itop_210327.rar from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:24 PM ====
+ attachment itop_210328.rar from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:32 PM ====
+ attachment Slide_UC_AchatPass.pptx from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:32 PM ====
+ attachment Specifications_technique_et_fonctionnel_UC_Comportement_Achats.docx from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:32 PM ====
+ attachment itop_210326.rar from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:32 PM ====
+ attachment itop_210327.rar from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:32 PM ====
+ attachment itop_210328.rar from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:32 PM ====
+ attachment Slide_UC_AchatPass.pptx from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:32 PM ====
+ attachment Specifications_technique_et_fonctionnel_UC_Comportement_Achats.docx from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:32 PM ====
+ attachment itop_210326.rar from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:32 PM ====
+ attachment itop_210327.rar from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:32 PM ====
+ attachment itop_210328.rar from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:33 PM ====
+ attachment Slide_UC_AchatPass.pptx from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:33 PM ====
+ attachment Specifications_technique_et_fonctionnel_UC_Comportement_Achats.docx from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:33 PM ====
+ attachment itop_210326.rar from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:33 PM ====
+ attachment itop_210327.rar from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:33 PM ====
+ attachment itop_210328.rar from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:50 PM ====
+ attachment Slide_UC_AchatPass.pptx from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:50 PM ====
+ attachment Specifications_technique_et_fonctionnel_UC_Comportement_Achats.docx from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:50 PM ====
+ attachment image001.png from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:50 PM ====
+ attachment image003.png from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:50 PM ====
+ attachment image005.png from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:50 PM ====
+ attachment Gandhi-SPE-DSD-Contrat d'Interface Otarie- 1.2.docx from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:50 PM ====
+ attachment Gandhi-SPE-DSD-Contrat d'Interface Astellia- 1 4b.docx from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:50 PM ====
+ attachment itop_210326.rar from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:50 PM ====
+ attachment itop_210327.rar from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:50 PM ====
+ attachment itop_210328.rar from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:52 PM ====
+ attachment Slide_UC_AchatPass.pptx from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:52 PM ====
+ attachment Specifications_technique_et_fonctionnel_UC_Comportement_Achats.docx from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:52 PM ====
+ attachment itop_210326.rar from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:52 PM ====
+ attachment itop_210327.rar from joseph.assahoua@orange.com saved
+==== date : 04/02/2021 14:52 PM ====
+ attachment itop_210328.rar from joseph.assahoua@orange.com saved
+==== date : 2021-04-03 21:42:24.137960 ====
+ attachment Slide_UC_AchatPass.pptx from joseph.assahoua@orange.com saved
+==== date : 2021-04-03 21:42:24.137960 ====
+ attachment Specifications_technique_et_fonctionnel_UC_Comportement_Achats.docx from joseph.assahoua@orange.com saved
+==== date : 2021-04-03 21:42:24.137960 ====
+ attachment itop_210326.rar from joseph.assahoua@orange.com saved
+==== date : 2021-04-03 21:42:24.137960 ====
+ attachment itop_210327.rar from joseph.assahoua@orange.com saved
+==== date : 2021-04-03 21:42:24.137960 ====
+ attachment itop_210328.rar from joseph.assahoua@orange.com saved
+==== date : 2021-04-03 21:43:32.800547 ====
+ attachment itop_210326.rar from Hermann A. saved
+==== date : 2021-04-03 21:43:32.800547 ====
+ attachment itop_210326.rar from Hermann A. saved
+==== date : 2021-04-03 21:43:32.800547 ====
+ attachment log_file.txt from Hermann A. saved
+==== date : 2021-04-03 21:46:18.619166 ====
+ attachment log_file.txt from Hermann A. saved
+==== date : 2021-04-03 21:48:55.908163 ====
+ attachment itop_210326.rar from Hermann A. saved
+==== date : 2021-04-03 21:48:55.908163 ====
+ attachment itop_210326.rar from Hermann A. saved
+==== date : 2021-04-03 21:48:55.908163 ====
+ attachment log_file.txt from Hermann A. saved
+==== date : 2021-04-03 21:56:33.455972 ====
+ attachment itop_210326.rar from Hermann A. saved
+==== date : 2021-04-03 21:56:33.455972 ====
+ attachment itop_210326.rar from Hermann A. saved
+==== date : 2021-04-03 21:56:33.455972 ====
+ attachment log_file.txt from Hermann A. saved
+==== date : 2021-04-03 21:58:50.287634 ====
+ attachment itop_210326.rar from Hermann A. saved
+==== date : 2021-04-03 21:58:50.287634 ====
+ attachment itop_210326.rar from Hermann A. saved
+==== date : 2021-04-03 21:58:50.287634 ====
+ attachment log_file.txt from Hermann A. saved
